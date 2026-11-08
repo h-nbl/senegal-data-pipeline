@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données brutes (jamais sur GitHub)
+data/raw/
+*.zip
+
+# Secrets
+.env
+
+# Éditeurs
+.vscode/
+.idea/
